@@ -1,0 +1,44 @@
+*{
+    font-family: 'Roboto';
+    padding: 5px;
+    
+}
+
+#title{
+    text-align: center;
+}
+#img-div{
+    height: auto;
+    display: table;
+    margin: 0 auto;
+}  
+
+#img{
+    border-radius: 15px;
+    max-width: 100%;
+}
+.paragraph{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}    
+ul {
+    width: 70%;
+    margin: auto;
+    list-style-type: none;
+}
+#tribute-info{
+    padding-bottom: 20px;
+    background-image: linear-gradient(white, gray);
+}
+
+.info{
+    margin-bottom: 5px;
+}
+p{
+    font-size: larger;
+}
+#p{
+    margin-bottom: 100px;
+}
